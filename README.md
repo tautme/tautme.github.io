@@ -1,6 +1,6 @@
-# Carpentries Check List
+# Carpentries Checklist
 
-##### *"No wise pilot, no matter how great his talent and experience, fails to use his checklist."* - Charlie Munger
+##### *"A checklist is a type of job aid used to reduce failure by compensating for potential limits of human memory and attention."* - Wikipedia First Line
 
 ### This is a checklist to help streamline the processes involved in making a Carpentries workshop happen. (-- from the instructor muting devices before lesson -- to the administrator clearly communicating the time and place)
 
@@ -9,3 +9,5 @@
 ### What is most important to you?
 
 #### Feel free to submit an issue for a check idea.
+
+##### *"No wise pilot, no matter how great his talent and experience, fails to use his checklist."* - Charlie Munger
